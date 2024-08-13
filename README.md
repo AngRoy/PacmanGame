@@ -20,3 +20,7 @@ Designed and implemented a classic Pacman game entirely from scratch using C and
 - Development of game logic and collision detection algorithms
 - Creation of a randomized environment for dynamic gameplay
 - Handling of user input and game state management in a GUI-based application
+
+### To Run : 
+* `gcc -o pacman.exe pacman.c -lgdi32`
+* `.\pacman.exe`
